@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
   text: {
-    fontSize: 18,
+    fontSize: 25,
     lineHeight: 28,
   },
   heading: {
@@ -10,12 +10,12 @@ export default StyleSheet.create({
     marginTop: 12,
   },
   heading1: {
-    fontSize: 20,
+    fontSize: 25,
     lineHeight: 22,
     fontWeight: "900",
   },
   heading2: {
-    fontSize: 18,
+    fontSize: 25,
     lineHeight: 20,
     fontWeight: "700",
   },
